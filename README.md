@@ -20,7 +20,7 @@ The Theme is minimal elegant optimized theme. My vocab are UX (user experience),
 
 ## Dev Change Log
 - v0.1
-  - use minimal CSS ([https://github.com/susam/spcss](spcss))
+  - use minimal CSS ([spcss](https://github.com/susam/spcss))
   - `loading="lazy"` for `<img>` and `<iframe>` : almost all modern browsers support it ([can i use](https://caniuse.com/#feat=loading-lazy-attr)).
   - use **WebP** image to speed up the page load time : all modern browsers suppor it ([can i use](https://caniuse.com/#feat=webp)).
   - support dark-mode via CSS (``)

@@ -1,5 +1,7 @@
-# thewebsitetheme
-The Website Theme : minimal elegant optimized theme
+# minimal blog system
+It is a blogging engine/system/platform that let you create blog posts dynamically (easily), and serve web pages to visitors as static webpages.
+
+The Theme is minimal elegant optimized theme. My vocab are UX (user experience), minimalism, efficiency, speed, performance, optimization, SEO (search engine optimization), 
 
 ## features
 - supports blogger, wordpress, hugo

@@ -1,22 +1,22 @@
-# minimal blog system
+# The Blogging system
 It is a blogging engine/system/platform that let you create blog posts dynamically (easily), and serve web pages to visitors as static webpages.
 
+## Ideas & Notes
+- Serve cached (generated) static pages –– generated after dynamic pages edited
+- lossless compression for images
+- resize huge images to fit the size needed for. (_hard resize_)
+- read for me (_text-to-speech_)
+
+## Default Theme
 The Theme is minimal elegant optimized theme. My vocab are UX (user experience), minimalism, efficiency, speed, performance, optimization, SEO (search engine optimization), 
 
-## features
-- supports blogger, wordpress, hugo
+### Theme Features
 - mobile-first, responsive layout
 - dark-mode support
 - speed page loads
 - SEO optimized ( meta data )
 - social optimized
 - breadcrumb
-
-## Ideas & Notes
-- Serve cached (generated) static pages generated when dynamic pages edited
-- lossless compression for images
-- resize huge images to fit the size needed for. (_hard resize_)
-- read for me (_text-to-speech_)
 
 ## Dev Change Log
 - v0.1

@@ -19,7 +19,7 @@ A software to create webpages dynamically, and serve them statically.
 &nbsp; • &nbsp;
 [Facebook page](https://www.facebook.com/SoftwarePharaoh/)
 
-## default theme principles
+## Default Theme Principles
 
 - UX (user experience)
 - minimal

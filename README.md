@@ -15,7 +15,7 @@ A software to create webpages dynamically, and serve them statically.
 &nbsp; • &nbsp;
 [Telegram channel](https://t.me/softwarepharaoh)
 &nbsp; • &nbsp;
-[Facebook page](https://www.facebook.com/softwarepharaoh)
+[Facebook page](https://www.facebook.com/SoftwarePharaoh/)
 
 ## default theme principles
 

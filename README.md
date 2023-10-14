@@ -7,6 +7,16 @@ A software to create webpages dynamically, and serve them statically.
 - generate __static HTML webpages__ with CSS/JS, then save them in __/public__ dir to serve them to visitors.
 - no database, just plain text files such as markdown files.
 
+[YouTube Channel](https://www.youtube.com/@abanoubha)
+&nbsp; • &nbsp;
+[𝕏 (twitter)](https://twitter.com/abanoubha)
+&nbsp; • &nbsp;
+[LinkedIn](https://www.linkedin.com/in/abanoub-hanna)
+&nbsp; • &nbsp;
+[Telegram channel](https://t.me/softwarepharaoh)
+&nbsp; • &nbsp;
+[Facebook page](https://www.facebook.com/softwarepharaoh)
+
 ## default theme principles
 
 - UX (user experience)

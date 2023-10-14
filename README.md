@@ -7,8 +7,13 @@ A software to create webpages dynamically, and serve them statically.
 - generate __static HTML webpages__ with CSS/JS, then save them in __/public__ dir to serve them to visitors.
 - no database, just plain text files such as markdown files.
 
-## Default Theme
-The Theme is minimal elegant optimized theme. My vocab are UX (user experience), minimalism, efficiency, speed, performance, optimization, SEO (search engine optimization), 
+## default theme principles
+
+- UX (user experience)
+- minimal
+- efficient
+- speedy / fast / performant
+- SEO (search engine optimization) 
 
 ## Dev Change Log
 - v0.1
@@ -39,4 +44,3 @@ The Theme is minimal elegant optimized theme. My vocab are UX (user experience),
 - [ ] default theme features: speed page loading time
 - [ ] default theme features: SEO optimized ( meta data )
 - [ ] default theme features: breadcrumb
-

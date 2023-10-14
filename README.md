@@ -36,4 +36,6 @@ The Theme is minimal elegant optimized theme. My vocab are UX (user experience),
 - [ ] add canonical url for each page
 - [ ] generate sitemap after create/edit
 - [ ] indexing content, searching
+- [ ] notify MS Bing SE that a URL added
+- [ ] notify Google SE that sitemap changed after create/edit
 

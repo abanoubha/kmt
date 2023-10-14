@@ -39,4 +39,5 @@ The Theme is minimal elegant optimized theme. My vocab are UX (user experience),
 - [ ] notify MS Bing SE that a URL added
 - [ ] notify Google SE that sitemap changed after create/edit
 - [ ] widget: share to..
+- [ ] feature: text to speech ("read for me" feature). ref:[Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 

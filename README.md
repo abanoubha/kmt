@@ -1,4 +1,5 @@
 # web
+
 A software to create webpages dynamically, and serve them statically.
 
 - create webpages (blog posts) dynamically.
@@ -27,6 +28,14 @@ A software to create webpages dynamically, and serve them statically.
 - speedy / fast / performant
 - SEO (search engine optimization)
 
+## Commands
+
+to create new Go project, run `go mod init github.com/abanoubha/project-name`, then create `main.go` file with `func main(){}` function.
+
+before running the project, run `go mod tidy` then run the project by `go run main.go` or `go run *.go`.
+
+to run tests, run `go test`.
+
 ## Features as Tasks
 
 - [ ] use [spcss](https://github.com/susam/spcss) or [tailwindcss](https://tailwindcss.com/)
@@ -39,7 +48,7 @@ A software to create webpages dynamically, and serve them statically.
 - [ ] notify Google SE that sitemap changed after create/edit
 - [ ] widget: share to..
 - [ ] feature: text to speech ("read for me" feature). ref:[Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-- [ ] use local font if available : https://developer.mozilla.org/en-US/docs/Web/API/Local_Font_Access_API
+- [ ] use local font if available : <https://developer.mozilla.org/en-US/docs/Web/API/Local_Font_Access_API>
 - [ ] translations
 - [ ] dark mode | light mode
 - [ ] Auth to create/edit
@@ -51,5 +60,4 @@ A software to create webpages dynamically, and serve them statically.
 - [ ] default theme features: SEO optimized ( meta data )
 - [ ] default theme features: breadcrumb
 - [ ] `loading="lazy"` for `<img>` and `<iframe>`. ([can i use](https://caniuse.com/#feat=loading-lazy-attr)).
-- [ ] use **WebP** image to speed up the page load time. ([can i use](https://caniuse.com/#feat=webp)).
-
+- [ ] use __WebP__ image to speed up the page load time. ([can i use](https://caniuse.com/#feat=webp)).

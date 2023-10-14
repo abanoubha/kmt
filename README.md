@@ -13,13 +13,7 @@ A software to create webpages dynamically, and serve them statically.
 - minimal
 - efficient
 - speedy / fast / performant
-- SEO (search engine optimization) 
-
-## Dev Change Log
-- v0.1
-  - `loading="lazy"` for `<img>` and `<iframe>` : almost all modern browsers support it ([can i use](https://caniuse.com/#feat=loading-lazy-attr)).
-  - use **WebP** image to speed up the page load time : all modern browsers suppor it ([can i use](https://caniuse.com/#feat=webp)).
-  - support dark-mode via CSS (``)
+- SEO (search engine optimization)
 
 ## Features as Tasks
 
@@ -44,3 +38,6 @@ A software to create webpages dynamically, and serve them statically.
 - [ ] default theme features: speed page loading time
 - [ ] default theme features: SEO optimized ( meta data )
 - [ ] default theme features: breadcrumb
+- [ ] `loading="lazy"` for `<img>` and `<iframe>`. ([can i use](https://caniuse.com/#feat=loading-lazy-attr)).
+- [ ] use **WebP** image to speed up the page load time. ([can i use](https://caniuse.com/#feat=webp)).
+

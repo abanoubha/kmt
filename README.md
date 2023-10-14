@@ -17,13 +17,13 @@ A software to create webpages dynamically, and serve them statically.
 
 ## Dev Change Log
 - v0.1
-  - use minimal CSS ([spcss](https://github.com/susam/spcss))
   - `loading="lazy"` for `<img>` and `<iframe>` : almost all modern browsers support it ([can i use](https://caniuse.com/#feat=loading-lazy-attr)).
   - use **WebP** image to speed up the page load time : all modern browsers suppor it ([can i use](https://caniuse.com/#feat=webp)).
   - support dark-mode via CSS (``)
 
 ## Features as Tasks
 
+- [ ] use [spcss](https://github.com/susam/spcss) or [tailwindcss](https://tailwindcss.com/)
 - [ ] SEO meta tags
 - [ ] add canonical url for each page
 - [ ] generate sitemap after create/edit

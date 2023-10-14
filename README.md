@@ -33,5 +33,7 @@ The Theme is minimal elegant optimized theme. My vocab are UX (user experience),
 
 ## Features as Tasks
 
+- [ ] add canonical url for each page
+- [ ] generate sitemap after create/edit
 - [ ] indexing content, searching
 

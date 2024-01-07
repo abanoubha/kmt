@@ -10,6 +10,8 @@ A software to create webpages dynamically, and serve them statically.
 - web interface let you edit/create webpage in chunks like gutenberg.
 - GIT-based versioning, ability to maintain it in command line via VIM, NeoVIM, ..
 
+_note_: Kmt is named after my country Egypt. Egypt is called Kmt in the ancient egyptian language.
+
 [YouTube Channel](https://www.youtube.com/@abanoubha)
 &nbsp; • &nbsp;
 [𝕏 (twitter)](https://twitter.com/abanoubha)

@@ -1,4 +1,4 @@
-# web
+# kmt
 
 A software to create webpages dynamically, and serve them statically.
 

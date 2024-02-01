@@ -1,5 +1,7 @@
 # kmt
 
+THIS IS A HUGE PROJECT FOR ME, SO, I STARTED WITH A CHUNK OF THE MISSION ([Hugo Front](https://github.com/abanoubha/hugoFront))
+
 A software to create webpages dynamically, and serve them statically.
 
 - create webpages (blog posts) dynamically.

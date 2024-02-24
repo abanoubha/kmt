@@ -38,6 +38,20 @@ go build -o kmt src/*.go
 go test
 ```
 
+## Markdown frontmatter
+
+```md
+---
+title: "title of a blog post about Linux"
+date: 2021-10-13T09:45:00+02:00
+draft: false
+category: "Linux"
+---
+the body of the article or blog post.
+```
+
+The link will be `/linux/some-file-name.html`. The blueprint is `/category-name/file-name.html`.
+
 ## Tasks
 
 - [x] (VISION) no database, just plain text files such as markdown files

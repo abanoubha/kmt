@@ -19,7 +19,8 @@ func main() {
 	case "serve", "--serve":
 		println("generate static webpages, then serve via localhost")
 	case "local", "--local", "localhost", "--localhost":
-		println("use localhost or 127.0.0.1 or 0.0.0.0")
+		println("Let's open http://localhost:8080")
+		LocalServe()
 	default:
 		println("Unknown argument!")
 		PrintHelp()

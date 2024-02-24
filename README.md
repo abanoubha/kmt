@@ -26,10 +26,10 @@ git clone --depth 1 --recursive -b main https://github.com/abanoubha/kmt.git
 go mod tidy
 
 # run the project
-go run src/*.go
+go run *.go
 
 # build the project, produce a binary/executable
-go build -o kmt src/*.go
+go build -o kmt *.go
 
 # run the executable/binary
 ./kmt

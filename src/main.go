@@ -10,15 +10,15 @@ func main() {
 	}
 
 	switch os.Args[1] {
-	case "h", "help":
+	case "h", "-h", "help", "--help":
 		println("help")
-	case "v", "ver", "version":
+	case "v", "-v", "ver", "--ver", "version", "--version":
 		println("version : 0.1.0")
-	case "build", "generate":
+	case "build", "--build", "generate", "--generate":
 		println("generate static webpages")
-	case "serve":
+	case "serve", "--serve":
 		println("generate static webpages, then serve via localhost")
-	case "local", "localhost":
+	case "local", "--local", "localhost", "--localhost":
 		println("use localhost or 127.0.0.1 or 0.0.0.0")
 	default:
 		println("Unknown argument!")

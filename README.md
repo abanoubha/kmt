@@ -2,7 +2,7 @@
 
 A software to create webpages dynamically, and serve them statically.
 
-This is an ongoing project to achieve this [VISION](VISION.md).
+This is an ongoing project to achieve this [VISION](VISION.md). And Here are some [resources and references of old plans and others' projects](res-refs.md).
 
 _note_: Kmt is named after my country Egypt. Egypt is called Kmt in the ancient egyptian language.
 

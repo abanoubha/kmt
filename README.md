@@ -24,14 +24,6 @@ _note_: Kmt is named after my country Egypt. Egypt is called Kmt in the ancient 
 &nbsp; • &nbsp;
 [Facebook page](https://www.facebook.com/SoftwarePharaoh/)
 
-## Default Theme Principles
-
-- UX (user experience)
-- minimal
-- efficient
-- speedy / fast / performant
-- SEO (search engine optimization)
-
 ## Commands
 
 to create new Go project, run `go mod init github.com/abanoubha/project-name`, then create `main.go` file with `func main(){}` function.

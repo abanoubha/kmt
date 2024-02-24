@@ -4,14 +4,6 @@ A software to create webpages dynamically, and serve them statically.
 
 This is an ongoing project to achieve this [VISION](VISION.md).
 
-- create webpages (blog posts) dynamically.
-- edit webpages (blog posts) dynamically.
-- creating/editing can be done via __web interface__ or by editing the __markdown file__.
-- generate __static HTML webpages__ with CSS/JS, then save them in __/public__ dir to serve them to visitors.
-- no database, just plain text files such as markdown files.
-- web interface let you edit/create webpage in chunks like gutenberg.
-- GIT-based versioning, ability to maintain it in command line via VIM, NeoVIM, ..
-
 _note_: Kmt is named after my country Egypt. Egypt is called Kmt in the ancient egyptian language.
 
 [YouTube Channel](https://www.youtube.com/@abanoubha)
@@ -46,28 +38,32 @@ go build -o kmt src/*.go
 go test
 ```
 
-## Features as Tasks
+## Tasks
 
-- [ ] use [spcss](https://github.com/susam/spcss) or [tailwindcss](https://tailwindcss.com/)
+- [x] (VISION) no database, just plain text files such as markdown files
+- [ ] create webpages (blog posts) dynamically via web interface
+- [ ] create webpages (blog posts) dynamically by editing the markdown file
+- [ ] edit webpages (blog posts) dynamically via web interface
+- [ ] edit webpages (blog posts) dynamically by editing the markdown file
+- [ ] generate static HTML webpages with CSS/JS, then save them in `/public` dir to serve them to visitors
+- [ ] web interface let you edit/create webpage in chunks like gutenberg
+- [ ] use [spcss](https://github.com/susam/spcss) by default
+- [ ] use [tailwindcss](https://tailwindcss.com/) for advanced theme(s)
 - [ ] SEO meta tags
 - [ ] add canonical url for each page
 - [ ] generate sitemap after create/edit
-- [ ] rss xml feed
-- [ ] indexing content, searching
-- [ ] notify MS Bing SE that a URL added
+- [ ] RSS XML feed
+- [ ] search page, indexing content, 'search' feature
+- [ ] notify MS Bing SE that sitemap changed after create/edit
 - [ ] notify Google SE that sitemap changed after create/edit
-- [ ] widget: share to..
-- [ ] feature: text to speech ("read for me" feature). ref:[Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-- [ ] use local font if available : <https://developer.mozilla.org/en-US/docs/Web/API/Local_Font_Access_API>
-- [ ] translations
-- [ ] dark mode | light mode
+- [ ] widget: share buttons
+- [ ] [text to speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+- [ ] [use local font if available]<https://developer.mozilla.org/en-US/docs/Web/API/Local_Font_Access_API>
+- [ ] translations (like i18n)
+- [ ] support auto dark mode
 - [ ] Auth to create/edit
 - [ ] lossless compression for images
 - [ ] resize huge images to fit the size needed for. (_hard resize_)
-- [ ] default theme features: mobile-first, responsive layout
-- [ ] default theme features: dark-mode support
-- [ ] default theme features: speed page loading time
-- [ ] default theme features: SEO optimized ( meta data )
-- [ ] default theme features: breadcrumb
-- [ ] `loading="lazy"` for `<img>` and `<iframe>`. ([can i use](https://caniuse.com/#feat=loading-lazy-attr)).
-- [ ] use __WebP__ image to speed up the page load time. ([can i use](https://caniuse.com/#feat=webp)).
+- [ ] breadcrumb
+- [ ] `loading="lazy"` for `<img>` and `<iframe>`
+- [ ] use __picture__ with __WebP__, __PNG__ and __JPEG__

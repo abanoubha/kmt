@@ -73,7 +73,7 @@ The link will be `/linux/some-file-name.html`. The blueprint is `/category-name/
 - [ ] notify Google SE that sitemap changed after create/edit
 - [ ] widget: share buttons
 - [ ] [text to speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-- [ ] [use local font if available]<https://developer.mozilla.org/en-US/docs/Web/API/Local_Font_Access_API>
+- [ ] [use local font if available](https://developer.mozilla.org/en-US/docs/Web/API/Local_Font_Access_API)
 - [ ] multilanguage support (i18n)
 - [ ] support auto dark mode
 - [ ] Auth to create/edit

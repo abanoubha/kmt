@@ -68,3 +68,4 @@ go test
 - [ ] breadcrumb
 - [ ] `loading="lazy"` for `<img>` and `<iframe>`
 - [ ] use __picture__ with __WebP__, __PNG__ and __JPEG__
+- [ ] redirects

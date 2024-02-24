@@ -69,3 +69,6 @@ go test
 - [ ] `loading="lazy"` for `<img>` and `<iframe>`
 - [ ] use __picture__ with __WebP__, __PNG__ and __JPEG__
 - [ ] redirects
+- [ ] embed YouTube videos
+- [ ] embed iframes
+- [ ] embed tweets

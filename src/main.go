@@ -4,7 +4,8 @@ import "os"
 
 func main() {
 	if len(os.Args) < 2 {
-		println("help + run default")
+		println("No arguments!")
+		PrintHelp()
 		return
 	}
 
@@ -20,6 +21,30 @@ func main() {
 	case "local", "localhost":
 		println("use localhost or 127.0.0.1 or 0.0.0.0")
 	default:
-		println("help + run default")
+		println("Unknown argument!")
+		PrintHelp()
 	}
+}
+
+func PrintHelp() {
+	println(`
+Usage:
+	kmt <arg>
+Use one of these commands:
+
+	b | -b | build | --build | generate | --generate
+		create the static files
+
+	v | -v | ver | --ver | version | --version
+		show kmt version
+
+	h | -h | help | --help
+		show this help
+
+	serve | --serve
+		generate the static files, serve them on localhost/server
+
+	local | --local | localhost | --localhost
+		use localhost or 127.0.0.1 or 0.0.0.0
+			`)
 }

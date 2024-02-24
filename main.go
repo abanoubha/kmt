@@ -11,7 +11,7 @@ func main() {
 
 	switch os.Args[1] {
 	case "h", "-h", "help", "--help":
-		println("help")
+		PrintHelp()
 	case "v", "-v", "ver", "--ver", "version", "--version":
 		println("version : 0.1.0")
 	case "build", "--build", "generate", "--generate":

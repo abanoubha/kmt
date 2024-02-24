@@ -26,11 +26,25 @@ _note_: Kmt is named after my country Egypt. Egypt is called Kmt in the ancient 
 
 ## Commands
 
-to create new Go project, run `go mod init github.com/abanoubha/project-name`, then create `main.go` file with `func main(){}` function.
+```sh
+# clone the project into a directory called 'kmt'
+git clone --depth 1 --recursive -b main https://github.com/abanoubha/kmt.git
 
-before running the project, run `go mod tidy` then run the project by `go run main.go` or `go run *.go`.
+# download all the libs/modules
+go mod tidy
 
-to run tests, run `go test`.
+# run the project
+go run src/*.go
+
+# build the project, produce a binary/executable
+go build -o kmt src/*.go
+
+# run the executable/binary
+./kmt
+
+# run tests
+go test
+```
 
 ## Features as Tasks
 

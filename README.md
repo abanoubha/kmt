@@ -50,6 +50,7 @@ go test
 - [ ] use [spcss](https://github.com/susam/spcss) by default
 - [ ] use [tailwindcss](https://tailwindcss.com/) for advanced theme(s)
 - [ ] SEO meta tags
+- [ ] robots.txt
 - [ ] add canonical url for each page
 - [ ] generate sitemap after create/edit
 - [ ] RSS XML feed

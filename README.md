@@ -55,7 +55,7 @@ The link will be `/linux/some-file-name.html`. The blueprint is `/category-name/
 ## Tasks
 
 - [x] (VISION) no database, just plain text files such as markdown files
-- [ ] create webpages (blog posts) dynamically via web interface
+- [ ] create a post via web interface (localhost or actual server/hosting)
 - [ ] create webpages (blog posts) dynamically by editing the markdown file
 - [ ] edit webpages (blog posts) dynamically via web interface
 - [ ] edit webpages (blog posts) dynamically by editing the markdown file

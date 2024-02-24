@@ -60,7 +60,7 @@ go test
 - [ ] widget: share buttons
 - [ ] [text to speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - [ ] [use local font if available]<https://developer.mozilla.org/en-US/docs/Web/API/Local_Font_Access_API>
-- [ ] translations (like i18n)
+- [ ] multilanguage support (i18n)
 - [ ] support auto dark mode
 - [ ] Auth to create/edit
 - [ ] lossless compression for images

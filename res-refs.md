@@ -9,3 +9,4 @@
 - [Laravel](https://github.com/laravel/laravel) [framework](https://github.com/laravel/framework)
 - [hugo](https://github.com/gohugoio/hugo) : Static Site Generator.
 - [tailwindcss](https://tailwindcss.com/)
+- optimize images: <https://developers.google.com/speed/docs/insights/OptimizeImages>

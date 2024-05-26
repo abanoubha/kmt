@@ -29,7 +29,7 @@ go mod tidy
 go run *.go
 
 # build the project, produce a binary/executable
-go build -o kmt *.go
+go build -o kmt .
 
 # run the executable/binary
 ./kmt

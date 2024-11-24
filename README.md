@@ -86,3 +86,35 @@ The link will be `/linux/some-file-name.html`. The blueprint is `/category-name/
 - [ ] embed YouTube videos
 - [ ] embed iframes
 - [ ] embed tweets
+- next
+  - tool: OCR for English & Arabic
+  - tool: convert numbers to & from Arabic, English and Persian
+  - tool: QR Code generator
+  - tool: QR code reader
+  - tool: image sharing service (مشاركة الصور)
+  - tool: image format converter (محول صيغ الصور)
+  - tool: image compressor/optimizer (ضاغط حجم الصور)
+  - tool: words counter (عداد الكلمات)
+  - tool: secure password generator (مولد كلمات المرور)
+  - tool: Markdown Editor (محرر مارك داون)
+  - tool: image &rarr; Base64
+  - tool: Base64 &rarr; image
+  - tool: icon maker (صانع الأيقونات)
+  - tool: show my IP (معرفة IP الخاص بي)
+  - tool: WordPress theme inspector (مكتشف قوالب ووردبريس)
+  - tool: domain info (معلومات حول النطاق / الدومين)
+  - tool: url encoder (تشفير الرابط)
+  - tool: url decoder (فك تشفير الرابط)
+  - tool: MD5 generator/calculator (مولد MD5)
+  - tool: color converter (محول الألوان)
+  - tool: HTML minifier (مصغّر HTML)
+  - tool: HTML prettifier (مجمل HTML)
+  - tool: HTML encoder (مشفر HTML)
+  - tool: HTML decoder (فك تشفير HTML)
+  - tool: CSS minifier (مصغر CSS)
+  - tool: CSS prettifier (مجمل CSS)
+  - tool: Javascript minifier (مصغر Javascript)
+  - tool: Javascript prettifier (مجمل Javascript)
+  - tool: binary to text (ثنائي إلى نص)
+  - tool: text to binary (نص إلى ثنائي)
+  - tool: YouTube video thumbnail downloader (تحميل الصورة المصغرة الخاصة بـ فيديو على يوتيوب)
